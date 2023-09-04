@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently Studying Master's in Data Science in **University Of Naples Federico II**
 
-- 🌱 I’m currently learning **Data Mining**
+- 🌱 I’m currently learning **Reinforcement Learning, Computer Vision**
 
-- 💬 Ask me about **react, angular**
+- 💬 Ask me about **Statistical Data Analysis, Machine Learning, Deep Learning**
 
 - 📫 How to reach me **psrinivasan028@gmail.com**
 
